@@ -2,7 +2,7 @@
 Netflix is a popular streaming service that offers a vast catalog of movies, TV shows, and original contents.
 This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
 
-The commands that we used in this project :
+The commands that I used in this project :
 
 * head() - It shows the first N rows in the data (by default, N=5).
 * tail () - It shows the last N rows in the data (by default, N=5).
@@ -26,3 +26,4 @@ The commands that we used in this project :
 * sns.countplot(df['Col_name']) - To show the count of all unique values of any column in the form of bar graph.
 * max( ), min( ) - It shows the maximum/minimum value of the series.
 * mean( ) - It shows the mean value of the series.
+
