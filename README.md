@@ -1,4 +1,4 @@
-# NetflixData_Big_Data_Analystic
+# NetflixData_Big_Data_Analystic #
 Netflix is a popular streaming service that offers a vast catalog of movies, TV shows, and original contents.
 This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
 
